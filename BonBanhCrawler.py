@@ -283,7 +283,7 @@ class BonBanhCrawler(Crawler):
         validator = ValidateUsedCars()
         self.log.info('Successfully initiate validator')
         cars_links = self._get_cars_link()
-        json_file_path = 'data/bonbanh/bonbanh_used_cars.json'
+        json_file_path = 'data/bonbanh_used_cars.json'
         self.log.info('Trying to open brands file at %s' % json_file_path)
         if is_file_empty(json_file_path):
             self.log.info(f'File at {json_file_path}, is empty, crawling...')
