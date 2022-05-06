@@ -59,7 +59,7 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE.txt`
 <br/>
 
 ## Contact us
-[Nguyen Thanh Tuan](mailto:nttuan8@gmail.com)
+[Nguyen Thanh Tuan](mailto:thanhtuanvp88@gmail.com)
 
 [To Duc Anh](mailto:toducanh2001@gmail.com)
 
