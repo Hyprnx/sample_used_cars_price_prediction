@@ -59,6 +59,8 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE.txt`
 <br/>
 
 ## Contact us
+[Nguyen Thanh Tuan](mailto:nttuan8@gmail.com)
+
 [To Duc Anh](mailto:toducanh2001@gmail.com)
 
 [Tran Minh Khoa](mailto:khoatran2181@gmail.com)
@@ -67,4 +69,4 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE.txt`
 
 [Kieu Son Tung](mailto:sontungkieu412@gmail.com)
 
-Project Link: [Used cars prediction](https://github.com/Hyprnx/used-cars-prices-prediction)
+Project Link: [Used cars prediction](https://github.com/Hyprnx/sample_used_cars_price_prediction)
